@@ -1,3 +1,4 @@
-.bg-success p-2 text-dark bg-opacity-10 {
-  margin: 0;
+#enlace {
+  text-decoration: none;
+  color: #000;
 }
