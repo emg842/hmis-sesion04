@@ -4,6 +4,7 @@
   justify-content: space-around;
   align-items: center;
   margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 .card-img-top {
@@ -14,6 +15,7 @@
 
 #titulo {
   text-align: center;
+  margin-top: 3%;
 }
 
 #descripcion {
@@ -23,5 +25,5 @@
 }
 
 .fondo {
-  background-color: #e7f2ed;
+  background-color: #ffffff;
 }
